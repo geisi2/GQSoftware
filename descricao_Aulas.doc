@@ -27,7 +27,11 @@ https://drive.google.com/drive/folders/1hX06w-8DqyRF-WPSExmmiDKLxTBA4Rws
 
 Aula 02 –
  
-Criando pastas; dando comandos básicos como pull, push, add . , fetch, etc; Aprendendo a clonar o repositório remoto, mandar alterações do remoto para o local e do local para o remoto.
+- Criando pastas; dando comandos básicos como pull, push, add ., fetch, etc; 
+- Aprendendo a criar um repositório e clonar o repositório remoto para o repositório local, fazer alterações no repositório remoto e mandar para local; 
+- Aprendendo a alterar o diretório remoto e buscar o repositório local sem realizar o merge (git fetch – baixa as alterações que foram feitas no repositório remoto, mas não altera o estado do repositório local. 
+- Aprendendo a alterar o diretório remoto e buscar o repositório local realizando o merge (git pull – baixa o conteúdo remoto e, de imediato, tenta alterar o estado local para que ele corresponda àquele conteúdo).
+
 
 ➢ REPOSITÓRIO:   
 
@@ -42,6 +46,28 @@ Revisão de java;
 • Estrutura Condicional 
 
 https://drive.google.com/drive/folders/1C9QUvXBUjbUDbl0urwlttH_W1_w4EwbP
+
+
+
+
+Aula 03 –
+ 
+Tem que fazer 
+
+➢ REPOSITÓRIO:   
+
+• Git & GitHub Introdução 03
+
+https://drive.google.com/drive/folders/1ISgMdunS9QXQ7w7-y2BOa6TdPVYW0_zd
+
+Revisão de java;
+
+➢ JAVA: 
+
+• Estrutura de repetição (while, do while e for) 
+
+https://drive.google.com/drive/folders/1C9QUvXBUjbUDbl0urwlttH_W1_w4EwbP
+
 
 
 
