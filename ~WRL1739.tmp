@@ -100,25 +100,7 @@ https://drive.google.com/drive/folders/1C9QUvXBUjbUDbl0urwlttH_W1_w4EwbP
 Aula 05 –
 Criei outra pasta e ele será excluído, pois é algo que não deve evitar de fazer na prática, mas que é bom saber.
 
-- Criar repositório remoto e um diretório local.
-
-- Entrar no diretório e criar um arquivo txt usando o comando touch, e depois edita-lo com o comando code que irá abrir no visual studio.
-
-- Executar os comandos básicos (add, commit -m, push e status )
-
-- Criar novo arquivo no repositório remoto, fazer o git pull para mandar as alterações que foram feitas no remoto para o local.
-
-• Aprender fazer um pull com repositórios com histórico de commits diferentes:
-
--Cria um novo diretório, e fazer os mesmos comandos de touch para criar e code para editar.
-
-- Inicia um novo repositório, renomeia a branch (passa de máster para main) usando git branch -m main.
-
-- Depois executa a url do seu repositório remoto (git remote add origin ‘+ URL’)
-
-- Quando executar mensagem de erro ao mandar o git push e o git pull, e necessário executar o git pull origin main –allow-unrelated-histories que irá adicionar os repositórios com histórico de commits diferentes.
-
-- Logo depois tem que executar o git push para mandar para o repositório local todas as alterações feitas, independentemente de ser ou não históricos de commits diferentes.
+ 
 
 
 ➢ REPOSITÓRIO:   
@@ -131,12 +113,7 @@ Revisão de java;
 
 ➢ JAVA: 
 
-• Métodos: 
-
-- Quanto mais coesão e menos acoplamento, temos um reaproveitamento de código maior. 
-
-- Quando temos a passagem de parâmetros em um método qualquer, e adiciona valores no método main ele resultará como se fosse uma cópia passagem de parâmetros em um método qualquer.
-
-- Em casos para otimizar espaço, porque guardar o endereço de memória ocupa menos espaço do computador do que copiar os dados. 
+• Estrutura de repetição 
 
 https://drive.google.com/drive/folders/1C9QUvXBUjbUDbl0urwlttH_W1_w4EwbP
+
